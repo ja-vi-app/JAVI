@@ -10,7 +10,7 @@ const AppFooter = (props) => {
       style={{
         width: "100%",
         fontSize: "11px",
-        padding: "1rem",
+        padding: "0.8rem",
       }}
       sx={{
         color: props.color ? "#fff" : theme.palette.textColor,
